@@ -10,7 +10,7 @@ namespace APP_VEC
         static void Main(string[] args)
         {
             Console.WriteLine("Hola");
-            Console.WriteLine("Ccomo estan");
+            Console.WriteLine("Como estan");
 
             Console.ReadKey();
         }
