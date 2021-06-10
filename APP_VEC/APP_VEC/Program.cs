@@ -21,7 +21,7 @@ namespace APP_VEC
                 dato[i] = char.Parse(Console.ReadLine());
             }
             Console.WriteLine("----------------------" );
-consol.Writelie(' ADINSON' )
+            Console.WriteLine(" ADINSON");
     
             /*
              * Crearemos otro ciclo for para accesar 
