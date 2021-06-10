@@ -21,8 +21,10 @@ namespace APP_VEC
                 dato[i] = char.Parse(Console.ReadLine());
             }
             Console.WriteLine("----------------------" );
-
+consol.Writelie(' ADINSON' )
+    
             /*
+             * Crearemos otro ciclo for para accesar 
              * Crearemos otro ciclo for para accesar 
              * a todas las posiciones del vector (0-9)
              * luego mostraremos lo que hay en cada
